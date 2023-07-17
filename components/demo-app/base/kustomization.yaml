@@ -5,4 +5,4 @@ commonAnnotations:
   argocd.argoproj.io/sync-options: SkipDryRunOnMissingResource=true
 
 resources:
-  - git::https://github.com/prietyc123/demo-app/demo?ref=f2a2c1275a7d33a90bf554a4c16516d5256db19c
+  - git::https://github.com/prietyc123/demo-app/demo?ref=241121539309cb183a318943948ed74e05e764dd
